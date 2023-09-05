@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "pic":"https://i.ibb.co/R2W9gGq/mubariz-mehdizadeh-Py8-F6-h-Rn5o-unsplash.jpg",
+        "name":"TOMAS ALEMAN",
+        "position":"Marketing CEO"
+    
+    },
+    {
+        "id":"2",
+        "pic":"https://i.ibb.co/VST8gnp/gregory-hayes-h5cd51-KXm-RQ-unsplash.jpg",
+        "name":"JAMES WISEMAN",
+        "position":"Marketing CEO"
+    
+    },
+    {
+        "id":"3",
+        "pic":"https://i.ibb.co/jZRpjFF/ana-nichita-BI91-Nrpp-E38-unsplash.jpg",
+        "name":"EMILY WATSON",
+        "position":"Head of Iaea"
+    
+    },
+    {
+        "id":"4",
+        "pic":"https://i.ibb.co/w4kmq98/marie-michele-bouchard-3-U9-BCWHMh-Uw-unsplash.jpg",
+        "name":"ALEXANDRA PAOL",
+        "position":"Web Developer"
+    
+    }
+]

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+.neon {
+  box-shadow: 0 0 5px rgb(101, 232, 25),
+  0 0 25px rgb(16, 228, 87);
+  }
+  .neon:hover {
+  box-shadow: 0 0 5px rgb(16, 228, 87),
+  0 0 25px rgb(16, 228, 87), 0 0 50px rgb(16, 228, 87),
+  0 0 100px rgb(16, 228, 87), 0 0 200px rgb(16, 228, 87);
+  }
